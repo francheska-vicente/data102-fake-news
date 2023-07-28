@@ -16,4 +16,4 @@ Relevance and Description
 - **Buitre, Cameron**  <br/>
 - **Marcelo, Andrea Jean C.**  <br/>
 - **Navarro, Alyssa Riantha R.**  <br/>
-- **Vicente, Francheska Josefa**  z
+- **Vicente, Francheska Josefa** 
