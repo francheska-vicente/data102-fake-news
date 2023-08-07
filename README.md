@@ -1,4 +1,4 @@
-# <Title>
+# **Tsimis Yarn?**: Identifying Fake News Among the News Articles Online
 Relevance and Description
 
 ## How to set up and run the project locally through JupyterNotebook or JupyterLab
